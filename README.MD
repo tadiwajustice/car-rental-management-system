@@ -1,4 +1,4 @@
-# 🚗 Car Rental Management System
+# Car Rental Management System
 
 A web-based Car Rental Management System built using **ASP.NET Core MVC (.NET 8)** and **Entity Framework Core**.
 
@@ -6,7 +6,7 @@ This system allows administrators to manage cars, customers, and rental bookings
 
 ---
 
-## 📌 Project Overview
+#Project Overview
 
 The Car Rental Management System is designed to:
 
@@ -20,7 +20,7 @@ This project follows the **Model-View-Controller (MVC)** design pattern.
 
 ---
 
-## 🏗️ Technologies Used
+#Technologies Used
 
 - ASP.NET Core MVC (.NET 8)
 - Entity Framework Core
@@ -31,4 +31,3 @@ This project follows the **Model-View-Controller (MVC)** design pattern.
 
 ---
 
-## 📂 Project Structure
